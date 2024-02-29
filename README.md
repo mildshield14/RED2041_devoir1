@@ -1,6 +1,6 @@
-## RED2041 : Devoir 1
+# RED2041 : Devoir 1
 
-# Auteur: Vennila Sooben
+## Auteur: Vennila Sooben
 ## Date: 28 février 2024
 
 Ce travail a été réalisé dans le cadre du cours RED2041 - RÉDACTION APPLIQUÉE AUX SUPPORTS NUMÉRIQUES Hiver 2024.
