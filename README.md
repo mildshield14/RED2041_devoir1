@@ -1,6 +1,6 @@
 # RED2041 : Devoir 1
 
-## Auteur: Vennila Sooben
+## Fait par: Vennila Sooben
 ## Matricule: 20235256
 ## Date: 28 février 2024
 
