@@ -1,0 +1,109 @@
+/* CSS general */
+.content{
+    padding: 20px;
+}
+
+
+content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px; 
+}
+
+/* Apply font styles */
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+    line-height: 1.5; 
+    margin-bottom: 20px; 
+}
+
+#logo_pic{
+padding: 0px;
+margin-right: 8px;
+}
+
+
+.navbar-text{
+margin-left: -5px;
+color: black;
+}
+
+footer{
+padding:20px;
+background-color: rgb(242, 242, 242);
+}
+
+/* CSS pour review.html */<div class="jumbotron jumbotron-fluid">
+            <div class="container content">
+            <h1 class="display-4">A propos</h1>
+            <p class="lead">
+.review-image {
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.5s ease;
+}
+
+.review{
+    
+    align-content: center;
+}
+
+
+/* CSS pour service.html */
+span{
+    color: rgb(9, 61, 98);
+ }
+
+ b{
+    font-weight: bold;
+ }
+
+ .title{
+    font-weight: bold;
+ }
+
+
+ /* CSS pour contact.html */
+ .jumbotron{
+    background-color: rgb(222, 229, 239);
+    padding:10px;
+    margin-bottom: 20px;
+}
+
+.card-body-contact{
+    text-align: center;
+}
+
+
+/* CSS pour about.html */
+.carousel-control-prev-icon
+{
+ margin-bottom: 85px;
+ background-color: rgb(127, 139, 146);
+}
+
+.carousel-control-next-icon
+{
+margin-bottom: 85px;
+background-color: rgb(127, 139, 146);
+}
+
+ .carousel-control-prev,
+ .carousel-control-next {
+ font-weight: bold;
+ 
+ }
+
+ .navbar-text{
+     margin-left: 2px;
+     color: black;
+ }
+
+ .navbar_brand{
+     margin-right:5px;
+ }
+
+ .display-4{
+         font-size: 235%;
+ }
