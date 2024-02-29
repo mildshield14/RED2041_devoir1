@@ -23,7 +23,7 @@ https://65dfdb517b813b0008f4d5b5--red2041devoir1.netlify.app
 
 - Le travail a été réalisé avec la consultation de l'énoncé du devoir, des notes de cours et de ce site: [La Grande Ourse Design](https://lagrandeourse.design/blog/ux-writing/quest-ce-quune-microcopie-et-comment-la-reussir/) partagé par une étudiante du cours pendant le cours magistral.
 
-- IDE: VSCode avec extension Boilerplate pour le code HTML. La majorité du code HTML (notamment les classes) est tirée de la documentation officielle de Bootstrap. Lien: [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
+- IDE: VSCode avec extension Boilerplate pour le code HTML. La majorité du code HTML (notamment le nom des classes) est tirée de la documentation officielle de Bootstrap. Lien: [Bootstrap Documentation](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
 
 - Les icônes (réseaux sociaux, contact) viennent de FontAwesome. Lien: [FontAwesome](https://fontawesome.com).
 
