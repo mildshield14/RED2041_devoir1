@@ -1,9 +1,10 @@
 # RED2041 : Devoir 1
 
 ## Auteur: Vennila Sooben
+## Matricule: 20235256
 ## Date: 28 février 2024
 
-Ce travail a été réalisé dans le cadre du cours RED2041 - RÉDACTION APPLIQUÉE AUX SUPPORTS NUMÉRIQUES Hiver 2024.
+Ce travail a été réalisé dans le cadre du cours RED2041 - RÉDACTION APPLIQUÉE AUX SUPPORTS NUMÉRIQUES Hiver 2024 à l'Université de Montréal.
 Le devoir est présenté à M. André-Claude Potvin.
 
 Le devoir consistait à mettre en œuvre les principes de rédaction UX et de rendre le texte fourni plus adapté à un site web.
