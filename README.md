@@ -17,7 +17,7 @@ ou
 
 2. Si le CSS n'est pas visible ou que le Javascript(Bootstrap ici) ne fonctionne pas, utilisez ce lien avec le 
 mot de passe:devoir1
-https://65dfdb517b813b0008f4d5b5--red2041devoir1.netlify.app
+[https://65dfdb517b813b0008f4d5b5--red2041devoir1.netlify.app]
 
 ## References:
 
